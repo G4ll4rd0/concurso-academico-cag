@@ -1,6 +1,3 @@
 #concurso academico cag
 
-Este es un cambio bonito para mi archivo readme. hola soy dario
-Este cambio se hace desde el master branch.
-
-holam migue está a mi lado
+Web app para el concurso académico anual que se lleva a cabo en cada Diciembre en el Colegio Salesiano Anáhuac Garibaldi.
