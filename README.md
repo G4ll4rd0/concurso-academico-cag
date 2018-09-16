@@ -1,6 +1,6 @@
 This Repo is in spanish because it has a focus on teaching programming at Colegio Salesiano Anáhuac Garibaldi, located in Guadalajara Jalisco Mexico.
 
-#[Concurso Académico];
+**Concurso Académico**
 
 Está es la apliación web que se pretende utilizar en el concurso académico anual que se lleva a cabo cada Diciembre en el Colegio Salesiano Anáhuac Garibaldi.
 
